@@ -1,6 +1,2 @@
 # test-committracer
-aaaaaaaaaaaaaaaaaabcd abcd abcd abcd abcd
-aaaaaaaqaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaa
+
